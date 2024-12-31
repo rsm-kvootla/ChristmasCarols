@@ -1,7 +1,7 @@
 # Christmas Songs Dashboard 🎄
 
 **Description**:
-This project is an interactive web application built with Dash to explore Christmas songs on the Billboard Hot 100. The dashboard enables users to analyze song trends, performances, and comparisons over time using dynamic visualizations and data tables.
+This project is an interactive web application built with Dash to explore Christmas songs on the Billboard Hot 100 (https://www.kaggle.com/datasets/elizabethearhart/billboard-hot-1001958-2024). The dashboard enables users to analyze song trends, performances, and comparisons over time using dynamic visualizations and data tables.
 
 ### Features:
 1. **Data Exploration**:
@@ -29,6 +29,7 @@ This project is an interactive web application built with Dash to explore Christ
 4. Open the app in a browser at `http://127.0.0.1:8050`.
 
 ### Dataset:
-The app uses a cleaned dataset (`hot100_clean.csv`) derived from the Billboard Hot 100 and a previous list of Holiday songs features on the Billboard Hot 100 from 1958 - 2024 derived from kaggle, https://www.kaggle.com/datasets/sharkbait1223/billboard-top-100-christmas-carol-dataset.  
+The app uses a cleaned dataset (`hot100_clean.csv`) derived from the Billboard Hot 100 (https://www.kaggle.com/datasets/elizabethearhart/billboard-hot-1001958-2024)
+and a previous list of Holiday songs features on the Billboard Hot 100 from 1958 - 2017 derived from kaggle, https://www.kaggle.com/datasets/sharkbait1223/billboard-top-100-christmas-carol-dataset.  
 Data preparation includes renaming columns, handling missing values, and calculating new features like `year`, `decade`, and `is_december', filtering the Hot 100 data on the kaggle dataset and other Holiday keywords.
 
