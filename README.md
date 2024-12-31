@@ -1,4 +1,4 @@
-# Christmas Songs Dashboard 🎄
+# Chartmas Cheers: Christmas Songs Dashboard 
 
 **Description**:
 This project is an interactive web application built with Dash to explore Christmas songs on the Billboard Hot 100 (https://www.kaggle.com/datasets/elizabethearhart/billboard-hot-1001958-2024). The dashboard enables users to analyze song trends, performances, and comparisons over time using dynamic visualizations and data tables.
